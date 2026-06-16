@@ -1,12 +1,12 @@
-🔍 Exploratory Data Analysis (EDA) | DecodeLabs Internship
+# 🔍 Exploratory Data Analysis (EDA) | DecodeLabs Internship
 
-📊 Project Overview
+# 📊 Project Overview
 
 Performed exploratory data analysis on the cleaned dataset from
 Project 1 to uncover patterns, trends, outliers, and correlations
 within 1,200 e-commerce orders.
 
-📁 Files in This Repository
+# 📁 Files in This Repository
 
 FileDescription
 
@@ -29,12 +29,12 @@ Dataset_Cleaned_Project1.csv --> Dataset cleaned in Project1
 06_trend_analysis.png -----> Revenue/orders over time
 
 
-🎯 Goal
+# 🎯 Goal
 
 Analyze the dataset to understand patterns, trends, and
 distributions using descriptive statistics.
 
-🔧 What Was Done
+# 🔧 What Was Done
 
 1. Descriptive Statistics
 
@@ -61,7 +61,7 @@ Found strong positive correlation between Quantity and TotalPrice
 Tracked monthly order volume, revenue trends, top products, and
 referral source performance.
 
-💡 Key Business Insights
+# 💡 Key Business Insights
 
 
 Median order value is notably lower than mean → revenue
@@ -75,11 +75,11 @@ Top referral channels drive majority of order volume
 Identified outlier orders worth investigating as VIP segment
 
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 
 Python, Pandas, Matplotlib, Seaborn, SciPy, Google Colab
 
-📚 Key Learnings
+# 📚 Key Learnings
 
 
 Five-number summary & distribution shape analysis
