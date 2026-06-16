@@ -12,7 +12,7 @@ FileDescription
 
 EDA_FINDINGS.txt ---> Full written findings & business insights
 
-Project2_EDA_Colab.ipynb ---> Complete analysis notebook
+Project1Workspace.ipynb ---> Complete analysis notebook
 
 01_distribution_analysis.png -----> Histograms of numeric variables
 
