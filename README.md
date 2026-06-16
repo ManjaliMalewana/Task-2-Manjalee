@@ -12,7 +12,9 @@ FileDescription
 
 EDA_FINDINGS.txt ---> Full written findings & business insights
 
-Project1Workspace.ipynb ---> Complete analysis notebook
+Project2Workspace.ipynb ---> Complete analysis notebook
+
+Dataset_Cleaned_Project1.csv --> Dataset cleaned in Project1 
 
 01_distribution_analysis.png -----> Histograms of numeric variables
 
