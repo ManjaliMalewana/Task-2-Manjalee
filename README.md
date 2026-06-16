@@ -11,12 +11,19 @@ within 1,200 e-commerce orders.
 FileDescription
 
 EDA_FINDINGS.txt ---> Full written findings & business insights
+
 Project2_EDA_Colab.ipynb ---> Complete analysis notebook
+
 01_distribution_analysis.png -----> Histograms of numeric variables
+
 02_outlier_boxplots.png ----> Boxplots showing outliers
+
 03_categorical_distribution.png----> Bar charts of categorical data
+
 04_correlation_heatmap.png -----> Correlation matrix heatmap
+
 05_scatter_plots.png -----> Quantity vs Price relationships
+
 06_trend_analysis.png -----> Revenue/orders over time
 
 
@@ -56,9 +63,13 @@ referral source performance.
 
 
 Median order value is notably lower than mean → revenue
+
 concentrated among a smaller set of high-value orders
+
 Strong correlation confirms cleaned data integrity
+
 Top referral channels drive majority of order volume
+
 Identified outlier orders worth investigating as VIP segment
 
 
@@ -70,6 +81,9 @@ Python, Pandas, Matplotlib, Seaborn, SciPy, Google Colab
 
 
 Five-number summary & distribution shape analysis
+
 IQR vs Z-score outlier detection methods
+
 Correlation ≠ Causation principle
+
 Translating statistical findings into business recommendations
