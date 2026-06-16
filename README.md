@@ -10,6 +10,7 @@ within 1,200 e-commerce orders.
 
 FileDescription
 
+
 EDA_FINDINGS.txt ---> Full written findings & business insights
 
 Project2Workspace.ipynb ---> Complete analysis notebook
